@@ -1,4 +1,4 @@
-![logo](https://github.com/DharmikGohil013/DharmikGohil013/blob/main/Screenshot%202024-04-06%20114326.png)
+![logo](https://github.com/DharmikGohil013/DharmikGohil013/blob/main/GDGS.png)
 ### Hi there 👋
 
 <!--
