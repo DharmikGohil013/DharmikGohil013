@@ -1,4 +1,4 @@
-![Header](https://github.com/DharmikGohil013/DharmikGohil013/blob/main/GDGS.png)
+![Header](https://github.com/DharmikGohil013/DharmikGohil013/blob/main/dlogo.png)
 
 <h1 align="center">Hi there! 👋 I'm Dharmik Gohil</h1>
 <h3 align="center">👨‍💻 Engineer by Day | 🎮 Game Developer by Night | 🚀 Innovator Always</h3>
