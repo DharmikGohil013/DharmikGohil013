@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with [Campus Admin Pro || Collage Management System](https://github.com/DharmikGohil013/JAVA-PROJECT-4.0)
 
-- 👨‍💻 All of my projects are available at [https://dharmikgohil.fun/](https://dharmikgohil.fun/)
+- 👨‍💻 All of my projects are available at [https://dharmikgohil.fun/](https://dharmikgohil.art/)
 
 - 💬 Ask me about **I’m Dharmik Gohil, a passionate game developer and backend engineer, currently pursuing a B.Tech in IT at CHARUSAT (2023-2027). Skilled in C#, Unity, Java, and Node.js, I have developed 30+ GitHub projects, including Flappy Bird and Mavericks Battleground. I’ve ranked top in coding competitions, conducted a Game Development Workshop at IIT Bombay, and earned certifications like Google Cloud Architect and AWS Machine Learning. With experience in web development and UI/UX design, I strive to create innovative and immersive tech solutions.**
 
