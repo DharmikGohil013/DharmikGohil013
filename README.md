@@ -1,52 +1,149 @@
-![Header](https://github.com/DharmikGohil013/DharmikGohil013/blob/main/dlogo.png)
+<div align="center">
+  
+<img src="https://github.com/DharmikGohil013/DharmikGohil013/blob/main/dlogo.png" alt="Header" width="600"/>
 
-<h1 align="center">Hi 👋🏼, I'm DHARMIK GOHIL</h1>
-<h3 align="center">Passionate Game Developer | C# & Unity Expert | Backend & Web Developer | Tech Enthusiast | Innovator in Interactive Experiences</h3>
+# 🎮 Hi, I'm Dharmik Gohil
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmikgohil013&label=Profile%20views&color=0e75b6&style=flat" alt="dharmikgohil013" /> </p>
+### Game Developer | Unity Expert | Backend Engineer | Tech Innovator
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmikgohil013" alt="dharmikgohil013" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=dharmikgohil013&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/dharmikgohil013)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dharmik086?logo=twitter&style=for-the-badge)](https://twitter.com/dharmik086)
 
-<p align="left"> <a href="https://twitter.com/dharmik086" target="blank"><img src="https://img.shields.io/twitter/follow/dharmik086?logo=twitter&style=for-the-badge" alt="dharmik086" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on [Mavericks Battlegrounds](https://dharmik086.itch.io/mavericks-battlegrounds)
+---
 
-- 🌱 I’m currently learning **C# , Unity Engine , Node Js ,Banckend**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on [Fit Sync || Your Health App Sync](https://github.com/DharmikGohil013/Odoo_x_CHARUSAT-Neural_Nexus)
+I'm a passionate **Game Developer** and **Backend Engineer** currently pursuing B.Tech in IT at CHARUSAT (2023-2027). With expertise in C#, Unity, Java, and Node.js, I've developed **30+ GitHub projects** and ranked top in multiple coding competitions.
 
-- 🤝 I’m looking for help with [Campus Admin Pro || Collage Management System](https://github.com/DharmikGohil013/JAVA-PROJECT-4.0)
+- 🎮 Conducted a **Game Development Workshop at IIT Bombay**
+- 🏆 Top ranker in coding competitions
+- 📜 Certified: Google Cloud Architect, AWS Machine Learning
+- 💡 Specializing in immersive interactive experiences
 
-- 👨‍💻 All of my projects are available at [https://dharmikgohil.fun/](https://dharmikgohil.art/)
+---
 
-- 💬 Ask me about **I’m Dharmik Gohil, a passionate game developer and backend engineer, currently pursuing a B.Tech in IT at CHARUSAT (2023-2027). Skilled in C#, Unity, Java, and Node.js, I have developed 30+ GitHub projects, including Flappy Bird and Mavericks Battleground. I’ve ranked top in coding competitions, conducted a Game Development Workshop at IIT Bombay, and earned certifications like Google Cloud Architect and AWS Machine Learning. With experience in web development and UI/UX design, I strive to create innovative and immersive tech solutions.**
+## 🔭 Current Focus
 
-- 📫 How to reach me **dharmikgohil395003@gmail.com**
+- **Working on:** [Mavericks Battlegrounds](https://dharmik086.itch.io/mavericks-battlegrounds) - An exciting gaming project
+- **Learning:** Advanced C#, Unity Engine, Node.js, Backend Architecture
+- **Collaborating on:** [Fit Sync - Your Health App Sync](https://github.com/DharmikGohil013/Odoo_x_CHARUSAT-Neural_Nexus)
+- **Seeking help with:** [Campus Admin Pro - College Management System](https://github.com/DharmikGohil013/JAVA-PROJECT-4.0)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pGecCLAB2fIn0wJx4iSqKGp33KU3sHkw/view?usp=drive_link](https://drive.google.com/file/d/1pGecCLAB2fIn0wJx4iSqKGp33KU3sHkw/view?usp=drive_link)
+---
 
-- ⚡ Fun fact **I once built a Mario game in Unity for a workshop at IIT Bombay, and ironically, I spent more time debugging Mario’s jumps than actually playing the game! 😂 Also, with 30+ GitHub projects, I sometimes forget what I coded last week—until someone asks me to fix a bug! 😅**
+## 🎯 Highlights
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+```javascript
+const dharmik = {
+    location: "India",
+    education: "B.Tech IT @ CHARUSAT (2023-2027)",
+    expertise: ["Game Development", "Backend Engineering", "UI/UX Design"],
+    projects: "30+",
+    funFact: "I debug more than I play! 😂"
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dharmikgohil.fun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dharmikgohil.fun/" height="30" width="40" /></a>
-<a href="https://twitter.com/dharmik086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dharmik086" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dharmikgohil086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharmikgohil086" height="30" width="40" /></a>
-<a href="https://instagram.com/dharmik.086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharmik.086" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dharmikgohilfun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dharmikgohilfun" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dharmikgohil3951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharmikgohil3951" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dharmik086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharmik086" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 💼 Portfolio & Resume
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmikgohil013&show_icons=true&locale=en&layout=compact" alt="dharmikgohil013" /></p>
+- 🌐 **Portfolio:** [dharmikgohil.art](https://dharmikgohil.art/)
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1pGecCLAB2fIn0wJx4iSqKGp33KU3sHkw/view?usp=drive_link)
+- 📧 **Email:** dharmikgohil395003@gmail.com
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharmikgohil013&show_icons=true&locale=en" alt="dharmikgohil013" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmikgohil013&" alt="dharmikgohil013" /></p>
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### Frontend & Frameworks
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tools & Cloud
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Mobile & Others
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmikgohil013&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70a5fd&ring=bf91f3&fire=ffb86c&currStreakLabel=38bdae" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dharmikgohil.art/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmikgohil086)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dharmik086)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/dharmikgohilfun)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dharmik.086)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/dharmik086)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dharmikgohil3951)
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+> I once built a Mario game in Unity for a workshop at IIT Bombay. Ironically, I spent more time debugging Mario's jumps than actually playing the game! 😂
+> 
+> With 30+ GitHub projects, I sometimes forget what I coded last week—until someone asks me to fix a bug! 😅
+
+---
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
+**Thanks for visiting! Feel free to reach out for collaborations or just a chat about tech! 🚀**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
