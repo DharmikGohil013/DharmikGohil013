@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://github.com/DharmikGohil013/DharmikGohil013/blob/main/dlogo.png" alt="Header" width="600"/>
+<img src="https://github.com/DharmikGohil013/DharmikGohil013/blob/main/dlogo.png" alt="Header" width="200"/>
 
 # 🎮 Hi, I'm Dharmik Gohil
 
